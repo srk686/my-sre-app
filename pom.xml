@@ -4,7 +4,7 @@
   <groupId>com.example</groupId>
   <artifactId>my-sre-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>my-sre-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
